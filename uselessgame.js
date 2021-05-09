@@ -13,7 +13,7 @@ function uselessGame(){
         }
 
         else if (isNaN(result)) {
-           alert("Writte a Number you piece of shit");
+           alert("Writte a Number you piece of sh.. !");
         }
 
      
